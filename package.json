@@ -2,7 +2,7 @@
   "name": "spontan-web",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://https://jacob157-rgb.github.io/spontan",
+  "homepage": "https://jacob157-rgb.github.io/spontan",
   "type": "module",
   "scripts": {
     "dev": "vite",
