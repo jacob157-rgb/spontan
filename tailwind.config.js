@@ -17,6 +17,11 @@ export default {
         gry: '#E9E9E9',
         whit: '#EFF6E0',
         blck: '#01161E',
+<<<<<<< HEAD
+=======
+        overwhelm: '#A6C983',
+        overwork:'#7EC7EA',
+>>>>>>> main
       },
     },
   },
